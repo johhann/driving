@@ -11,6 +11,6 @@ class SomethingController extends Controller
      */
     public function sth()
     {
-        return 'something';
+        return true;
     }
 }
